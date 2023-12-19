@@ -17,7 +17,8 @@ The code is structured as follows:
 **Visualization:** The results are visualized by plotting the real IBM stock prices against the predicted prices.
 
 ## Requirements
-Python 3.x
+Python 3
+
 **Libraries:** Pandas, Matplotlib, NumPy, Scikit-learn, Keras
 ## Usage
 Clone the repository.
